@@ -1,7 +1,6 @@
 node_modules
 .DS_Store
 npm-debug.log
-.vscode
 .tmp
 .idea
 .tmp_env
@@ -68,3 +67,7 @@ yarn.lock
 !**/types/**/*.d.ts
 
 page-functions-test-case*out*.js
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
